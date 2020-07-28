@@ -46,23 +46,6 @@ the occupancy levels of bike sharing stations;&lt;/li&gt;
     </item>
     
     <item>
-      <title>Smart Controller</title>
-      <link>https://yujboss.github.io/project/fezspider/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://yujboss.github.io/project/fezspider/</guid>
-      <description>&lt;p&gt;The goal is to write applications on embedded systems, using high level programming languages. To achieve this result, first the common characteristics of embedded systems are examined, mainly focusing on software environment and programming languages; then the Microsoft Micro Framework.NET environment and its associated C# object-oriented programming language is presented.
-Finally, we are involved in the design and implementation of an application for “embedded” systems using the Gadgeteer family devices.&lt;/p&gt;
-&lt;p&gt;By means of Gadgeteer FEZ Spider mainboard we implemented Home Surveillance System.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Device logs all the activities that occurred on the environment where the camera is, on database. For example if we install it on parking place it may keep track of cars appeared on the screen.&lt;/li&gt;
-&lt;li&gt;It also sends the email with that particular snapshot where the object is detected to predefined email.&lt;/li&gt;
-&lt;li&gt;Then it also blinks the one of the Multicolor LEDS when object is detected&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Tabu Search</title>
       <link>https://yujboss.github.io/project/vrptw/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
