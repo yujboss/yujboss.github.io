@@ -12,6 +12,24 @@
     
     
     <item>
+      <title>PoliHUB</title>
+      <link>https://yujboss.github.io/project/polihub/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujboss.github.io/project/polihub/</guid>
+      <description>&lt;p&gt;Course work on Mobile application.
+Created an application that allows students to consult the lecture timetables&lt;/p&gt;
+&lt;h2 id=&#34;allow-to-search-by-course-name-andor-teachers-name&#34;&gt;Allow to search by course name and/or teacher&amp;rsquo;s name&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Show in a compact way the weekly lectures of the retrieved course/teacher schedule&lt;/li&gt;
+&lt;li&gt;Show detailed data about a given lecture: course name, start time and end time, lecture room&lt;/li&gt;
+&lt;li&gt;Store the results in Google Calendar&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Timetable data is arbitrarily provided and stored in the application assets folder as a text (json) file&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>PoliToBike</title>
       <link>https://yujboss.github.io/project/politobike/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
@@ -24,6 +42,16 @@ the occupancy levels of bike sharing stations;&lt;/li&gt;
 &lt;li&gt;To improve the accuracy of such model by properly tuning the configuration parameters;&lt;/li&gt;
 &lt;li&gt;To develop a client-server system and Android application to visualize the results of prediction;&lt;/li&gt;
 &lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tabu Search</title>
+      <link>https://yujboss.github.io/project/vrptw/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujboss.github.io/project/vrptw/</guid>
+      <description>&lt;p&gt;An hybrid metaheuristic that combines Tabu Search and Genetic algorithm for solving the VRPTW Vehicle Routing Problem with Time Windows.&lt;/p&gt;
 </description>
     </item>
     

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matteo Virgilio on Jalolliddin Yusupov</title>
+    <link>https://yujboss.github.io/authors/matteo-virgilio/</link>
+    <description>Recent content in Matteo Virgilio on Jalolliddin Yusupov</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://yujboss.github.io/authors/matteo-virgilio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>General VNF Modeling</title>
+      <link>https://yujboss.github.io/publication/ijece/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujboss.github.io/publication/ijece/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://iris.polito.it/retrieve/handle/11583/2749813/275017/document.pdf&#34;&gt;A VNF modeling approach for verification purposes&lt;/a&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Automated Security Management</title>
+      <link>https://yujboss.github.io/publication/nfvsdn/</link>
+      <pubDate>Tue, 04 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujboss.github.io/publication/nfvsdn/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/9040069&#34;&gt;Automated Security Management for Virtual Services&lt;/a&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>VNF Modeling</title>
+      <link>https://yujboss.github.io/publication/compsac/</link>
+      <pubDate>Tue, 04 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujboss.github.io/publication/compsac/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/8029653&#34;&gt;A Framework for User-Friendly Verification-Oriented VNF Modeling&lt;/a&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

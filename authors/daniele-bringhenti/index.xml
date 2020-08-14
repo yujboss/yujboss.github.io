@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniele Bringhenti on Jalolliddin Yusupov</title>
+    <link>https://yujboss.github.io/authors/daniele-bringhenti/</link>
+    <description>Recent content in Daniele Bringhenti on Jalolliddin Yusupov</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://yujboss.github.io/authors/daniele-bringhenti/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Firewall Configuration</title>
+      <link>https://yujboss.github.io/publication/noms/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujboss.github.io/publication/noms/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/9110402/&#34;&gt;Automated optimal firewall orchestration and configuration in virtualized networks&lt;/a&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Security Function Orchestration</title>
+      <link>https://yujboss.github.io/publication/icccs/</link>
+      <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujboss.github.io/publication/icccs/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/8888130&#34;&gt;Towards a fully automated and optimized network security functions orchestration&lt;/a&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

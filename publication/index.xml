@@ -6,29 +6,127 @@
     <description>Recent content in Publications on Jalolliddin Yusupov</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://yujboss.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Industrial Networks</title>
+      <link>https://yujboss.github.io/publication/transaction/</link>
+      <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujboss.github.io/publication/transaction/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/9119174&#34;&gt;A Formal Approach to Verify Connectivity and Optimize VNF Placement in Industrial Networks&lt;/a&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Firewall Configuration</title>
+      <link>https://yujboss.github.io/publication/noms/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujboss.github.io/publication/noms/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/9110402/&#34;&gt;Automated optimal firewall orchestration and configuration in virtualized networks&lt;/a&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Security Function Orchestration</title>
+      <link>https://yujboss.github.io/publication/icccs/</link>
+      <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujboss.github.io/publication/icccs/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/8888130&#34;&gt;Towards a fully automated and optimized network security functions orchestration&lt;/a&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>General VNF Modeling</title>
+      <link>https://yujboss.github.io/publication/ijece/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujboss.github.io/publication/ijece/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://iris.polito.it/retrieve/handle/11583/2749813/275017/document.pdf&#34;&gt;A VNF modeling approach for verification purposes&lt;/a&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Network Modeling</title>
-      <link>https://yujboss.github.io/publication/journal-article/</link>
+      <link>https://yujboss.github.io/publication/access/</link>
       <pubDate>Wed, 17 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://yujboss.github.io/publication/journal-article/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
+      <guid>https://yujboss.github.io/publication/access/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/document/8765301&#34;&gt;A framework for verification-oriented user-friendly network function modeling&lt;/a&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>5G Function Split</title>
+      <link>https://yujboss.github.io/publication/cscn/</link>
+      <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujboss.github.io/publication/cscn/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/8581714&#34;&gt;Multi-Objective Function Splitting and Placement of Network Slices in 5G Mobile Networks&lt;/a&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Virtual Network Embedding</title>
+      <link>https://yujboss.github.io/publication/cnsm/</link>
+      <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujboss.github.io/publication/cnsm/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/8584921&#34;&gt;Virtual Network Embedding with Formal Reachability Assurance&lt;/a&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
     
     <item>
       <title>Industrial Internet of Things</title>
-      <link>https://yujboss.github.io/publication/conference-paper/</link>
+      <link>https://yujboss.github.io/publication/wfcs/</link>
       <pubDate>Wed, 13 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://yujboss.github.io/publication/conference-paper/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
+      <guid>https://yujboss.github.io/publication/wfcs/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/document/8402355&#34;&gt;Formally verified latency-aware VNF placement in Industrial Internet of Things&lt;/a&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Automated Security Management</title>
+      <link>https://yujboss.github.io/publication/nfvsdn/</link>
+      <pubDate>Tue, 04 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujboss.github.io/publication/nfvsdn/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/9040069&#34;&gt;Automated Security Management for Virtual Services&lt;/a&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>VNF Modeling</title>
+      <link>https://yujboss.github.io/publication/compsac/</link>
+      <pubDate>Tue, 04 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujboss.github.io/publication/compsac/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/8029653&#34;&gt;A Framework for User-Friendly Verification-Oriented VNF Modeling&lt;/a&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 </description>
     </item>

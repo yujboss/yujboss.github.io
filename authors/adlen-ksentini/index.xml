@@ -6,18 +6,55 @@
     <description>Recent content in Adlen Ksentini on Jalolliddin Yusupov</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://yujboss.github.io/authors/adlen-ksentini/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Industrial Networks</title>
+      <link>https://yujboss.github.io/publication/transaction/</link>
+      <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujboss.github.io/publication/transaction/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/9119174&#34;&gt;A Formal Approach to Verify Connectivity and Optimize VNF Placement in Industrial Networks&lt;/a&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>5G Function Split</title>
+      <link>https://yujboss.github.io/publication/cscn/</link>
+      <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujboss.github.io/publication/cscn/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/8581714&#34;&gt;Multi-Objective Function Splitting and Placement of Network Slices in 5G Mobile Networks&lt;/a&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Virtual Network Embedding</title>
+      <link>https://yujboss.github.io/publication/cnsm/</link>
+      <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujboss.github.io/publication/cnsm/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/8584921&#34;&gt;Virtual Network Embedding with Formal Reachability Assurance&lt;/a&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Industrial Internet of Things</title>
-      <link>https://yujboss.github.io/publication/conference-paper/</link>
+      <link>https://yujboss.github.io/publication/wfcs/</link>
       <pubDate>Wed, 13 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://yujboss.github.io/publication/conference-paper/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
+      <guid>https://yujboss.github.io/publication/wfcs/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/document/8402355&#34;&gt;Formally verified latency-aware VNF placement in Industrial Internet of Things&lt;/a&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
