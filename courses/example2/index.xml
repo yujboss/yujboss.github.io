@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Algorithms and Programming on Jalolliddin Yusupov</title>
-    <link>https://yujboss.github.io/courses/example/</link>
-    <description>Recent content in Algorithms and Programming on Jalolliddin Yusupov</description>
+    <title>Algorithms and Programming 2 on Jalolliddin Yusupov</title>
+    <link>https://yujboss.github.io/courses/example2/</link>
+    <description>Recent content in Algorithms and Programming 2 on Jalolliddin Yusupov</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://yujboss.github.io/courses/example/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://yujboss.github.io/courses/example2/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
